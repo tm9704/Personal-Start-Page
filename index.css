@@ -1,8 +1,8 @@
 body {
-    color: lemonchiffon;
+    color: white;
 }
 .font-size500{
-    font-size: 6rem;
+    font-size: 9rem;
 }
 .btn {
     cursor: pointer;
@@ -28,13 +28,13 @@ ul {
 }
 
 h1 {
-    color:lemonchiffon;
+    color:white;
     transition: color 0.5s ease-in-out;
     align-content: center;
 }
 
 .clicked {
-    color: lemonchiffon;
+    color: white;
 }
 
 .form {
